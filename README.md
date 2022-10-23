@@ -26,4 +26,4 @@
 | DocStrings | 122 |
 | dataclass | 127 |
 | Enum | 128 |
-|  |  |
+| Implementando um iterator | 129 |
