@@ -1,0 +1,49 @@
+clientes_dicionario = {
+    1: {
+        'nome': 'Marcos Paulo',
+        'sobrenome': 'Baptista',
+        'idade': 25,
+        'altura': 1.75,
+        'peso': 65,
+    },
+    2: {
+        'nome': 'Maria',
+        'sobrenome': 'Oliveira',
+        'idade': 52,
+        'altura': 1.67,
+        'peso': 57,
+    },
+    3: {
+        'nome': 'Pedro',
+        'sobrenome': 'Faria',
+        'idade': 32,
+        'altura': 1.95,
+        'peso': 113,
+    },
+}
+
+clientes_json = """
+{
+    "1": {
+        "nome": "Marcos Paulo",
+        "sobrenome": "Baptista",
+        "idade": 25,
+        "altura": 1.75,
+        "peso": 60
+    },
+    "2": {
+        "nome": "Maria",
+        "sobrenome": "Oliveira",
+        "idade": 52,
+        "altura": 1.67,
+        "peso": 57
+    },
+    "3": {
+        "nome": "Pedro",
+        "sobrenome": "Faria",
+        "idade": 32,
+        "altura": 1.95,
+        "peso": 113
+    }
+}
+"""
